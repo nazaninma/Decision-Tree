@@ -22,6 +22,4 @@ This project implements a multi-node categorical decision tree classifier from s
 
 ## Installation  
 ```bash
-git clone https://github.com/yourusername/decision-tree-project.git
-cd decision-tree-project
 pip install -r requirements.txt
